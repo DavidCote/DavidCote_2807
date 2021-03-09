@@ -1,0 +1,7 @@
+Diferencia entre administración y gestión
+
+Administración: Son tecnicas que nos ayudan a controlar los recursos disponibles 
+		de tal manera que se consiga un determinado objetivo, sin necesidad
+		de conocer completamente como serán utilizados dichos recursos
+
+Gestión: Utiliza los recursos asignados a un area de forma que se cumpla un objetivo especifico
