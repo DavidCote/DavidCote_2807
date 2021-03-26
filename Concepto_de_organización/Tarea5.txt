@@ -1,0 +1,18 @@
+Definición
+La organización  de  los centro de cómputo es la aplicación de un conjunto de técnicas con el fin de crear una estructura
+donde se describan las jerarquias y actividades del grupo.
+
+Ejemplo:
+
+
+					*******************************************
+					* Administración del centro de computo    *
+					*******************************************
+							      |
+							      |
+							      |
+			     ---------------------------------------------------------------------
+                             |                      |                     |                      |
+		***************************     *********     ************************     *************
+		* Soporte Y Mantenimiento *     * Redes *     * Analista de sistemas *     * Desarollo *
+		***************************     *********     ************************     *************
